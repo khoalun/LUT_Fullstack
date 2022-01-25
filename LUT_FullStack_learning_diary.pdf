@@ -1,0 +1,31 @@
+Lappeenrannan teknillinen yliopisto
+School of Business and Management
+
+
+
+
+
+
+Sofware Development Skills
+
+Bui Nguyen Khoa , student number : x106927
+
+
+LEARNING DIARY,  SOFTWARE DEVELOPMENT SKILLS: FULL-STACK MODULE
+
+MODULE TASKLIST:
+NODEJS:
+What I learned : 
+-Knowledge about the defination, benefits, best types of projects for NodeJS.
+-Knowledge about NPM, Node Modules
+-Download Nodejs for Windows
+-Create package.json for a project
+-Understand NodeJS core fundamentals such as path, url, fs, event, https
+-Create a basic server
+-Know how to deploy a server to Heroku
+MongoDB: 
+What I learned:
+-Know how to download MongoDB and understand MongoDB fundamentals.
+- Basic commands to display all database in mongo shell
+- Basic commands to add one row and multiple rows in collection
+- Basic commands to sort all formatted rows in collection in ascendant/descendant order
