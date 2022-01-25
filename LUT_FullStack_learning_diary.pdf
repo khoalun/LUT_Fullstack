@@ -29,3 +29,25 @@ What I learned:
 - Basic commands to display all database in mongo shell
 - Basic commands to add one row and multiple rows in collection
 - Basic commands to sort all formatted rows in collection in ascendant/descendant order
+
+EXPRESSJS:
+What I learned:
+-Knowledge about the defination and the advantages of ExpressJS.
+-Download and use Postman which is an HTTP client to make requests(GET, POST, PUT, DELETE) to server
+-Know about middlewares and how to handle them
+-Understand how to render static folder in ExpressJS
+-Know how to get all, get one, create, update, delete member in ExpressJS
+-Understand the method to render templates using express-handlebars -In the future, I have to learn how to send JSON web tokens to authenticate
+ANGULAR:
+What I learned:
+-Understand the Angular fundamentals as well as know the structure of an Angular project
+-Know how to use CLI to create components and services
+-I am working with React so when move to Angular framework, the logic is not different but the syntax is tricky for me to remember and understand
+-Using two-way data binding with the ngModel directive
+-Know some condition syntax in Angular: *ngFor, *ngIf…
+-Know lifecycle hook: ngOnInit
+-Know how to defined routes, a redirect route, and a parameterized route.
+-Know how to share a service among multiple components
+-Use HTTP and add post, put, delete, get method to a service
+-Learn how to use observables
+-Angular is more difficult for me because of its syntax and the flow of code. I need to spend more time on researching about this framework.
