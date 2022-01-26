@@ -65,4 +65,4 @@ PROJECT (APPOINTMENT APP)
 What I learned:
 -I understand more about REST API with Get, Post, Put, Delete, Get By Id method and the structure of an Angular application.
 -I have a lot of problems but I tried to figure them out through Stack Overflow and Github as well as some other resources.
-- In the future, I will implement the authentication process in this Appointment application which is similar with the Coursework tutorial.
+
