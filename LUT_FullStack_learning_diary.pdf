@@ -38,6 +38,7 @@ What I learned:
 -Understand how to render static folder in ExpressJS
 -Know how to get all, get one, create, update, delete member in ExpressJS
 -Understand the method to render templates using express-handlebars -In the future, I have to learn how to send JSON web tokens to authenticate
+
 ANGULAR:
 What I learned:
 -Understand the Angular fundamentals as well as know the structure of an Angular project
@@ -51,3 +52,17 @@ What I learned:
 -Use HTTP and add post, put, delete, get method to a service
 -Learn how to use observables
 -Angular is more difficult for me because of its syntax and the flow of code. I need to spend more time on researching about this framework.
+
+COURSEWORK (MEAN STACK):
+What I learned:
+-This coursework project include Rest API, Token Generation and Authentication, CORS, Mongoose ODM, Angular 2, Angular2-JWT, Auth Guard.
+-Apply the knowledge about NodeJS, ExpressJS and Angular to create a fullstack application (MEAN stack) -Understand how to create user model and schema and create register, authenticate functionalities in back end and connect to the front end.
+-Deploy the MEAN application to Heroku and use MongoDB Atlas to set up database because mLab’s account has been closed since February 2019.
+- Because the technology is updated everyday so there are some unexpected bugs happened during the time I studied this coursework.
+
+
+PROJECT (APPOINTMENT APP)
+What I learned:
+-I understand more about REST API with Get, Post, Put, Delete, Get By Id method and the structure of an Angular application.
+-I have a lot of problems but I tried to figure them out through Stack Overflow and Github as well as some other resources.
+- In the future, I will implement the authentication process in this Appointment application which is similar with the Coursework tutorial.
